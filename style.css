@@ -1,0 +1,56 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+background-color: #455560;
+font-family: 'Crimson Text', serif;
+}
+
+#iframe {
+display: block;
+margin-left: 20px;
+margin-bottom: 25px;
+padding-top: -25px;
+width: 95%;
+height: 55%;
+top: 400px;
+transform: translate(-50%, -50%);
+background-color: #EF4035;
+border: none;
+border-radius: 20px;
+}
+
+img {
+color: #fff;
+}
+
+h1 {
+color: #fbaf3f;
+display: inline-block;
+font-family: 'Crimson Text', serif;
+font-size: 40px;
+margin-left: 5px;
+}
+
+/*.logo {
+margin: auto;
+margin-bottom: 20px;
+display: inline-block;
+}*/
+
+.fa {
+color: #fff;
+display: inline-block;
+margin-left: 5px;
+}
+
+.fa-twitter-square {
+margin-left: 20px;
+}
+
+/*.heading {
+text-align: center;
+}*/
